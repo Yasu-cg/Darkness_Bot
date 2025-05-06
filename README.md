@@ -1,5 +1,5 @@
 # Darkness_Bot-MD
-<h1 align="center">✦Darkness_Bot-MD✦</h1>
+<h1 align="center">✦Darkness_Bot✦</h1>
 
  <img src= "https://cdnmega.vercel.app/media/l5AhCRwb@Gnrg2U7s8aScA2ualU567f6-wJk6-a0HeHUjKP6-SGs">
     </p>
