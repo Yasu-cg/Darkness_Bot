@@ -40,7 +40,7 @@ global.yukiJadibts = true
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = '⪛✰𝑫𝒂𝒓𝒌𝒏𝒆𝒔𝒔_𝑩𝒐𝒕-𝑴𝑫✰⪜'
-global.botname = '𝔻𝕒𝕣𝕜𝕟𝕖𝕤𝕤_𝔹𝕠𝕥-𝕄𝔻'
+global.botname = '𝔇𝔞𝔯𝔨𝔫𝔢𝔰𝔰-𝔟𝔬𝔱'
 global.wm = 'ৎ୭࠭͢𝔻𝕒𝕣𝕜𝕟𝕖𝕤𓆪͟͞ '
 global.author = 'Made By ⨀⃝⃟⃞༺𝔜𝔞𝔰𝔲༻𝔣𝔣❀'
 global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ ⨀⃝⃟⃞༺𝔜𝔞𝔰𝔲༻𝔣𝔣❀'
