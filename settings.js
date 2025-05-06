@@ -35,7 +35,7 @@ global.nameqr = '𝔻𝕒𝕣𝕜𝕟𝕖𝕤𝕤-𝕄𝔻'
 global.namebot = '✿◟𝔻𝕒𝕣𝕜𝕟𝕖𝕤𝕤_𝔹𝕠𝕥-𝕄𝔻◞✿'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
-global.DarknesJadibts = true
+global.DarknessJadibts = true
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
